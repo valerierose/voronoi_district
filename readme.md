@@ -23,7 +23,7 @@ This is a work in progress. Currently able to scatter random points on the U.S. 
 - [x] Put random points in a state.
 - [x] Put random points in all states.
 - [x] Create Voronoi cells based on random points.
-- [ ] Find where Voronoi cells intersect state lines, creating districts.
+- [x] Find where Voronoi cells intersect state lines, creating districts.
 - [ ] Divide all states into Voronoi cells.
 - [ ] Color voronoi cells in visualization.
 - [ ] Distribute random points based on population density.
