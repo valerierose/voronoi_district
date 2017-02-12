@@ -2,7 +2,7 @@
 
 Solve [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) once and for all by redistricting the United States using [Voronoi tesselations](https://en.wikipedia.org/wiki/Voronoi_diagram), an unbiased way of dividing a space into random regions.
 
-![By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Gerry-Mander_Edit.png/229px-The_Gerry-Mander_Edit.png "By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons")   VS.  ![By Balu Ertl (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Euclidean_Voronoi_diagram.svg/240px-Euclidean_Voronoi_diagram.svg.png "By Balu Ertl (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons")
+![By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/The_Gerry-Mander_Edit.png/229px-The_Gerry-Mander_Edit.png "By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons")   VS.  ![Massachusetts redistricted with Voronoi cells](images/voronoi_ma.png "Massachusetts redistricted with Voronoi cells")
 
 ### Methodology ###
 
