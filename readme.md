@@ -2,7 +2,7 @@
 
 Solve [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) once and for all by redistricting the United States using [Voronoi tesselations](https://en.wikipedia.org/wiki/Voronoi_diagram), an unbiased way of dividing a space into random regions.
 
-![By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/96/The_Gerry-Mander_Edit.png "By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons" =300x)
+![By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/96/The_Gerry-Mander_Edit.png =300x "By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons")
 
 ### Methodology ###
 
