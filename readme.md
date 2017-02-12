@@ -1,6 +1,8 @@
 # Voronoi District #
 
-Solve [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) once and for all by redistricting the United States using [Voronoi Tesselations](https://en.wikipedia.org/wiki/Voronoi_diagram).
+Solve [gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) once and for all by redistricting the United States using [Voronoi tesselations](https://en.wikipedia.org/wiki/Voronoi_diagram), an unbiased way of dividing a space into random regions.
+
+![By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/9/96/The_Gerry-Mander_Edit.png "By Elkanah Tisdale (1771-1835) (often falsely attributed to Gilbert Stuart)[1] (Originally published in the Boston Centinel, 1812.) [Public domain], via Wikimedia Commons")
 
 ### Methodology ###
 
@@ -11,7 +13,25 @@ Solve [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering) once and fo
 probabilities of different levels of party membership.
 5. Compare to current level of party membership.
 
-(This is a work in progress. I'm on step 2 above and haven't worked out the population density stuff yet.)
+### Current Status ###
+
+This is a work in progress. Currently able to scatter random points on the U.S. map without using population density and figuring out how to divide a state into Voronoi cells.
+
+#### Steps ####
+
+- [x] Plot the United States.
+- [x] Put random points in a state.
+- [x] Put random points in all states.
+- [x] Create Voronoi cells based on random points.
+- [ ] Find where Voronoi cells intersect state lines, creating districts.
+- [ ] Divide all states into Voronoi cells.
+- [ ] Color voronoi cells in visualization.
+- [ ] Distribute random points based on population density.
+- [ ] Find voting or party data by location.
+- [ ] Color districts by likely party affiliation.
+- [ ] Create redistricting results for many random number seeds.
+- [ ] Plot probabilities of possible House of Representatives party splits.
+- [ ] Find probability of current House split.
 
 ### Dependencies ###
 
